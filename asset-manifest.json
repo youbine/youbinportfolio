@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youbinportfolio/static/css/main.05f9537c.css",
-    "main.js": "/youbinportfolio/static/js/main.caf69ae9.js",
+    "main.css": "/youbinportfolio/static/css/main.f47cb825.css",
+    "main.js": "/youbinportfolio/static/js/main.135a3fa6.js",
     "static/media/React-netflix.png": "/youbinportfolio/static/media/React-netflix.2f33555ab62ad668aef7.png",
     "static/media/Webpage-CloneCoding-Starbucks.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Starbucks.6525cd61a91fe6145df3.png",
     "static/media/Webpage-CloneCoding-Hitejinro.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Hitejinro.a3fda3457614c6c155b5.png",
@@ -23,11 +23,11 @@
     "static/media/Ogg-Thin.woff": "/youbinportfolio/static/media/Ogg-Thin.33c6a7f213355aaf7fec.woff",
     "static/media/Ogg-Regular.woff": "/youbinportfolio/static/media/Ogg-Regular.952c7df377bf0f45c1f8.woff",
     "index.html": "/youbinportfolio/index.html",
-    "main.05f9537c.css.map": "/youbinportfolio/static/css/main.05f9537c.css.map",
-    "main.caf69ae9.js.map": "/youbinportfolio/static/js/main.caf69ae9.js.map"
+    "main.f47cb825.css.map": "/youbinportfolio/static/css/main.f47cb825.css.map",
+    "main.135a3fa6.js.map": "/youbinportfolio/static/js/main.135a3fa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.05f9537c.css",
-    "static/js/main.caf69ae9.js"
+    "static/css/main.f47cb825.css",
+    "static/js/main.135a3fa6.js"
   ]
 }
