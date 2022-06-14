@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Ogg-regular";
+  font-display: fallback;
+  src: url("./Ogg-Regular.ttf") format("truetype"),
+    url("./Ogg-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ogg-medium";
+  font-display: fallback;
+  src: url("./Ogg-Medium.ttf") format("truetype"),
+    url("./Ogg-Medium.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ogg-light";
+  font-display: fallback;
+  src: url("./Ogg-Light.ttf") format("truetype"),
+    url("./Ogg-Light.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ogg-bold";
+  font-display: fallback;
+  src: url("./Ogg-Bold.ttf") format("truetype"),
+    url("./Ogg-Bold.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ogg-thin";
+  font-display: fallback;
+  src: url("./Ogg-Thin.ttf") format("truetype"),
+    url("./Ogg-Thin.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ogg-mediumitalicitalic";
+  font-display: fallback;
+  src: url("./Ogg-MediumItalic.ttf") format("truetype"),
+    url("./Ogg-MediumItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ogg-regularitalicitalic";
+  font-display: fallback;
+  src: url("./Ogg-RegularItalic.ttf") format("truetype"),
+    url("./Ogg-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+

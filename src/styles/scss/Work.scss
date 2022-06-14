@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+.work {
+  width: 100%;
+  display: block;
+}
+.workWrap {
+  padding-top: 10vh;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-row-gap: 15vh;
+  margin: auto;
+  height: 100%;
+  width: 90%;
+}
+
+.work__detail {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 80vh;
+  &.hite {
+    grid-row: 1;
+    grid-column: 2 / 12;
+  }
+  &.starbucks {
+    grid-row: 2;
+    grid-column: 2 / 12;
+  }
+  &.netflix {
+    grid-row: 3;
+    grid-column: 2 / 12;
+  }
+  &.taco {
+    grid-row: 4;
+    grid-column: 2 / 13;
+  }
+  &.apple {
+    grid-row: 5;
+    grid-column: 2 / 13;
+  }
+  &.room {
+    height: 100vh;
+    grid-row: 6;
+    grid-column: 2 / 13;
+  }
+}
+.panel {
+  position: absolute;
+  width: 60%;
+  height: 160%;
+  background-size: cover;
+  top: 0;
+  background-position: 100% -100%;
+  background-repeat: no-repeat;
+  &.hite {
+    background-image: url("../images/Webpage-CloneCoding-Hitejinro.png");
+  }
+  &.starbucks {
+    background-position: 100% -20%;
+    right: 0;
+    background-image: url("../images/Webpage-CloneCoding-Starbucks.png");
+  }
+  &.netflix {
+    background-image: url("../images/React-netflix.png");
+  }
+  &.taco {
+    background-image: url("../images/Almighty-taco.png");
+    background-position: center top;
+    background-size: contain;
+    width: 65%;
+    top: 90%;
+    right: 0;
+  }
+  &.apple {
+    width: 50%;
+    background-position: center top;
+    background-image: url("../images/Webpage-CloneCoding-Apple.png");
+  }
+  &.room {
+    background-image: url("../images/RoomHomepage.png");
+    background-position: center top;
+    right: 0;
+    width: 65%;
+    background-size: contain;
+    top: 80%;
+  }
+  div {
+    visibility: hidden;
+  }
+}
+
+.titlewrap {
+  color: black;
+  position: absolute;
+  height: 100%;
+  p:not(.small) {
+    overflow: hidden;
+    font-family: "Bebas Neue", cursive;
+    font-size: 2vmax;
+  }
+  &.hite {
+    right: 5%;
+    top: 30%;
+    text-align: end;
+  }
+  &.starbucks {
+    left: 0;
+    top: 10%;
+  }
+  &.netflix {
+    right: 0;
+    top: 25%;
+    text-align: end;
+  }
+  &.taco {
+    z-index: 3;
+    left: 0;
+    top: 10%;
+    .title {
+      font-size: 9vmax;
+    }
+  }
+  &.apple {
+    right: 0;
+    top: 10%;
+    text-align: end;
+    .title {
+      font-size: 9vmax;
+    }
+  }
+  &.room {
+    left: 0;
+    top: 20%;
+  }
+}
+.small {
+  overflow: hidden;
+  color: rgb(148, 148, 148);
+  font-family: "Bebas Neue", cursive;
+  font-size: 1.5vmax;
+}
+.title {
+  line-height: 0.9;
+  overflow: hidden;
+  color: black;
+  font-size: 10vmax;
+}
+.skills {
+  font-family: "Bebas Neue", cursive;
+  color: red;
+}
