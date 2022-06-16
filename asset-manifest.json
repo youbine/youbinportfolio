@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/youbinportfolio/static/css/main.f47cb825.css",
-    "main.js": "/youbinportfolio/static/js/main.135a3fa6.js",
+    "main.css": "/youbinportfolio/static/css/main.92afc1db.css",
+    "main.js": "/youbinportfolio/static/js/main.816f88b0.js",
     "static/media/React-netflix.png": "/youbinportfolio/static/media/React-netflix.2f33555ab62ad668aef7.png",
     "static/media/Webpage-CloneCoding-Starbucks.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Starbucks.6525cd61a91fe6145df3.png",
     "static/media/Webpage-CloneCoding-Hitejinro.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Hitejinro.a3fda3457614c6c155b5.png",
     "static/media/RoomHomepage.png": "/youbinportfolio/static/media/RoomHomepage.c0132461839790a4c204.png",
-    "static/media/Almighty-taco.png": "/youbinportfolio/static/media/Almighty-taco.b3e4ad9d98e470b4c35e.png",
+    "static/media/Almighty-taco.png": "/youbinportfolio/static/media/Almighty-taco.caf039a79baa64bfa48b.png",
     "static/media/Webpage-CloneCoding-Apple.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Apple.cb9591881d26c5ffebd0.png",
     "static/media/Ogg-MediumItalic.ttf": "/youbinportfolio/static/media/Ogg-MediumItalic.a7ca72c9940745e4cf97.ttf",
     "static/media/Ogg-RegularItalic.ttf": "/youbinportfolio/static/media/Ogg-RegularItalic.18f85a7023ba7272cdc9.ttf",
@@ -23,11 +23,11 @@
     "static/media/Ogg-Thin.woff": "/youbinportfolio/static/media/Ogg-Thin.33c6a7f213355aaf7fec.woff",
     "static/media/Ogg-Regular.woff": "/youbinportfolio/static/media/Ogg-Regular.952c7df377bf0f45c1f8.woff",
     "index.html": "/youbinportfolio/index.html",
-    "main.f47cb825.css.map": "/youbinportfolio/static/css/main.f47cb825.css.map",
-    "main.135a3fa6.js.map": "/youbinportfolio/static/js/main.135a3fa6.js.map"
+    "main.92afc1db.css.map": "/youbinportfolio/static/css/main.92afc1db.css.map",
+    "main.816f88b0.js.map": "/youbinportfolio/static/js/main.816f88b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f47cb825.css",
-    "static/js/main.135a3fa6.js"
+    "static/css/main.92afc1db.css",
+    "static/js/main.816f88b0.js"
   ]
 }
