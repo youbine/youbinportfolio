@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youbinportfolio/static/css/main.9d3b850a.css",
-    "main.js": "/youbinportfolio/static/js/main.e51edd15.js",
+    "main.css": "/youbinportfolio/static/css/main.3aa8bc95.css",
+    "main.js": "/youbinportfolio/static/js/main.abe03459.js",
     "static/media/React-netflix.png": "/youbinportfolio/static/media/React-netflix.2f33555ab62ad668aef7.png",
     "static/media/Webpage-CloneCoding-Starbucks.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Starbucks.6525cd61a91fe6145df3.png",
     "static/media/Webpage-CloneCoding-Hitejinro.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Hitejinro.a3fda3457614c6c155b5.png",
@@ -9,6 +9,7 @@
     "static/media/Almighty-taco.png": "/youbinportfolio/static/media/Almighty-taco.bd0057ef99569078f30f.png",
     "static/media/GoodChair.png": "/youbinportfolio/static/media/GoodChair.7d511c7a1d551477df85.png",
     "static/media/Webpage-CloneCoding-Apple.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Apple.cb9591881d26c5ffebd0.png",
+    "static/media/Zzan.png": "/youbinportfolio/static/media/Zzan.0c542deb4deb1fbf41c8.png",
     "static/media/Ogg-MediumItalic.ttf": "/youbinportfolio/static/media/Ogg-MediumItalic.a7ca72c9940745e4cf97.ttf",
     "static/media/Ogg-RegularItalic.ttf": "/youbinportfolio/static/media/Ogg-RegularItalic.18f85a7023ba7272cdc9.ttf",
     "static/media/Ogg-Medium.ttf": "/youbinportfolio/static/media/Ogg-Medium.481bbdb76b964ce8601c.ttf",
@@ -24,11 +25,11 @@
     "static/media/Ogg-Thin.woff": "/youbinportfolio/static/media/Ogg-Thin.33c6a7f213355aaf7fec.woff",
     "static/media/Ogg-Regular.woff": "/youbinportfolio/static/media/Ogg-Regular.952c7df377bf0f45c1f8.woff",
     "index.html": "/youbinportfolio/index.html",
-    "main.9d3b850a.css.map": "/youbinportfolio/static/css/main.9d3b850a.css.map",
-    "main.e51edd15.js.map": "/youbinportfolio/static/js/main.e51edd15.js.map"
+    "main.3aa8bc95.css.map": "/youbinportfolio/static/css/main.3aa8bc95.css.map",
+    "main.abe03459.js.map": "/youbinportfolio/static/js/main.abe03459.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d3b850a.css",
-    "static/js/main.e51edd15.js"
+    "static/css/main.3aa8bc95.css",
+    "static/js/main.abe03459.js"
   ]
 }
