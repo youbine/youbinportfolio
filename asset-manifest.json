@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/youbinportfolio/static/css/main.1a9656a0.css",
+    "main.css": "/youbinportfolio/static/css/main.0282a3b3.css",
     "main.js": "/youbinportfolio/static/js/main.7be64f2b.js",
     "static/media/React-netflix.png": "/youbinportfolio/static/media/React-netflix.2f33555ab62ad668aef7.png",
     "static/media/Webpage-CloneCoding-Starbucks.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Starbucks.6525cd61a91fe6145df3.png",
@@ -9,7 +9,6 @@
     "static/media/Almighty-taco.png": "/youbinportfolio/static/media/Almighty-taco.bd0057ef99569078f30f.png",
     "static/media/GoodChair.png": "/youbinportfolio/static/media/GoodChair.7d511c7a1d551477df85.png",
     "static/media/Webpage-CloneCoding-Apple.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Apple.cb9591881d26c5ffebd0.png",
-    "static/media/Zzan.png": "/youbinportfolio/static/media/Zzan.abe8033be025e4504467.png",
     "static/media/Ogg-MediumItalic.ttf": "/youbinportfolio/static/media/Ogg-MediumItalic.a7ca72c9940745e4cf97.ttf",
     "static/media/Ogg-RegularItalic.ttf": "/youbinportfolio/static/media/Ogg-RegularItalic.18f85a7023ba7272cdc9.ttf",
     "static/media/Ogg-Medium.ttf": "/youbinportfolio/static/media/Ogg-Medium.481bbdb76b964ce8601c.ttf",
@@ -17,6 +16,7 @@
     "static/media/Ogg-Thin.ttf": "/youbinportfolio/static/media/Ogg-Thin.51125c4c9bf90a734f34.ttf",
     "static/media/Ogg-Regular.ttf": "/youbinportfolio/static/media/Ogg-Regular.77698e04b45570ccb89f.ttf",
     "static/media/Ogg-Light.ttf": "/youbinportfolio/static/media/Ogg-Light.a845a5089dc15034586c.ttf",
+    "static/media/Zzan.png": "/youbinportfolio/static/media/Zzan.f19920ac438511bd16a5.png",
     "static/media/Ogg-MediumItalic.woff": "/youbinportfolio/static/media/Ogg-MediumItalic.9b6f7bb6ffd2e9a24be8.woff",
     "static/media/Ogg-RegularItalic.woff": "/youbinportfolio/static/media/Ogg-RegularItalic.728f870bfc6c917b0a26.woff",
     "static/media/Ogg-Medium.woff": "/youbinportfolio/static/media/Ogg-Medium.a1dbe14a10e3ecd74981.woff",
@@ -25,11 +25,11 @@
     "static/media/Ogg-Thin.woff": "/youbinportfolio/static/media/Ogg-Thin.33c6a7f213355aaf7fec.woff",
     "static/media/Ogg-Regular.woff": "/youbinportfolio/static/media/Ogg-Regular.952c7df377bf0f45c1f8.woff",
     "index.html": "/youbinportfolio/index.html",
-    "main.1a9656a0.css.map": "/youbinportfolio/static/css/main.1a9656a0.css.map",
+    "main.0282a3b3.css.map": "/youbinportfolio/static/css/main.0282a3b3.css.map",
     "main.7be64f2b.js.map": "/youbinportfolio/static/js/main.7be64f2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a9656a0.css",
+    "static/css/main.0282a3b3.css",
     "static/js/main.7be64f2b.js"
   ]
 }
