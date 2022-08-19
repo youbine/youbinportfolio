@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youbinportfolio/static/css/main.37e09499.css",
-    "main.js": "/youbinportfolio/static/js/main.727096bd.js",
+    "main.js": "/youbinportfolio/static/js/main.e442079c.js",
     "static/media/taco.gif": "/youbinportfolio/static/media/taco.9e11eb7db9bc91015ec1.gif",
     "static/media/chair.gif": "/youbinportfolio/static/media/chair.e410d645f872cea22fca.gif",
     "static/media/Webpage-CloneCoding-Starbucks.png": "/youbinportfolio/static/media/Webpage-CloneCoding-Starbucks.6525cd61a91fe6145df3.png",
@@ -58,10 +58,10 @@
     "static/media/Boska-Extralight.woff2": "/youbinportfolio/static/media/Boska-Extralight.ba79d64ac67ef5bb0ed0.woff2",
     "index.html": "/youbinportfolio/index.html",
     "main.37e09499.css.map": "/youbinportfolio/static/css/main.37e09499.css.map",
-    "main.727096bd.js.map": "/youbinportfolio/static/js/main.727096bd.js.map"
+    "main.e442079c.js.map": "/youbinportfolio/static/js/main.e442079c.js.map"
   },
   "entrypoints": [
     "static/css/main.37e09499.css",
-    "static/js/main.727096bd.js"
+    "static/js/main.e442079c.js"
   ]
 }
